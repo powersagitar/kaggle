@@ -1,0 +1,8 @@
+# Kaggle
+kaggle
+kagglehub
+python-dotenv
+
+# Dependencies
+pandas
+scikit-learn
